@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-added in master
-=======
 added in feature
->>>>>>> feature

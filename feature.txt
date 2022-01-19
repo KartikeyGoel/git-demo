@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 added features to enhance performance
-=======
 added all features
->>>>>>> feature
